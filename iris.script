@@ -16,5 +16,6 @@
     // load all the code of the project as a ZPM package
     zn "IRISAPP"
     zpm "install webterminal"
+    zpm "samples-bi"
     zpm "load /home/irisowner/irisbuild/ -v":1:1
     halt
